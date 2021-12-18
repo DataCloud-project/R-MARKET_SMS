@@ -1,0 +1,35 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+/bin/
+.vscode/
+
+### iExec ###
+
+src/main/resources/iexec-sms-aes.key
+src/main/resources/boot/sms-palaemon-conf.yml
+src/main/java/com/iexec/sms/utils/version/Version.java

@@ -1,0 +1,5 @@
+package com.iexec.sms.utils.version;
+
+class Version {
+    static final String PROJECT_VERSION = "@projectversion@";
+}
