@@ -1,4 +1,8 @@
-# R-MARKET_sms
+<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
+
+[![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/R-MARKET_SMS.svg)](https://github.com/DataCloud-project/R-MARKET_SMS/issues)
+
+# R-MARKET SMS
 
 What is it?
 
