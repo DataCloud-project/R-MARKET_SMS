@@ -25,7 +25,7 @@ We cannot promise to incorporate your suggestions, but we will as minimum respon
 
 ## Pull requests
 
-If you want to raise a pull request with a new feature, or a refactoring of existing code, please make sure that your code follows our [coding standards](#coding-standards) and adheres to our chosen open source software [LICENSE)(https://github.com/DataCloud-project/R-MARKET_SMS/blob/main/LICENSE), i.e., the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+If you want to raise a pull request with a new feature, or a refactoring of existing code, please make sure that your code follows our [coding standards](#coding-standards) and adheres to our chosen open source software [LICENSE)(https://github.com/DataCloud-project/R-MARKET_SMS/blob/master/LICENSE), i.e., the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 
 Please also make sure to provide a detailed description of your changes by adding a new section in the [CHANGELOG.md](https://github.com/DataCloud-project/R-MARKET_SMS/blob/master/CHANGELOG.md) file before requesting the pull request.
